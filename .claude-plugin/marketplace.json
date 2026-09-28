@@ -1,0 +1,12 @@
+{
+  "name": "meus-agentes",
+  "owner": { "name": "Planejamento-Estrategico" },
+  "description": "Marketplace de plugins para o Claude Code",
+  "plugins": [
+    {
+      "name": "planejamento-estrategico",
+      "source": "./plugins/planejamento-estrategico",
+      "description": "Planejamento estratégico guiado em 8 etapas, da cultura da empresa ao relatório final"
+    }
+  ]
+}
